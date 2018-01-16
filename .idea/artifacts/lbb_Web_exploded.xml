@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="lbb:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/lbb_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="lbb/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="lbb" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
